@@ -62,4 +62,13 @@
         <github>FamousNest</github>
         <group>Student</group>
     </student>
+ <student>
+        <firstname>Joanna</firstname>
+        <lastname>Margielewska</lastname>
+        <email>joansue@interia.pl</email>
+        <github>joansue</github>
+        <group>Student</group>
+    </student>
+
+
 </students>
